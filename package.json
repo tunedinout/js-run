@@ -1,0 +1,25 @@
+{
+  "name": "@nkjgs/serve-js",
+  "version": "1.0.0",
+  "description": "Serves static files in a directory",
+  "main": "cli.js",
+  "bin": {
+    "serve-js": "./cli.js"
+  },
+  "scripts": {
+    "start": "node api.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chokidar": "^3.6.0",
+    "commander": "^12.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "socket.io": "^4.7.4",
+    "ws": "^8.16.0"
+  }
+}
