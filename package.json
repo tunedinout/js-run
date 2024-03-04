@@ -1,6 +1,6 @@
 {
   "name": "@nkjgs/serve-js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Serves static files in a directory",
   "main": "cli.js",
   "bin": {
