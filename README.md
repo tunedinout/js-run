@@ -1,4 +1,4 @@
 hosts static file from a chosen directory and at a specified port. 
 Usage: 
 
-> serve-js serve public 4001
+> serve-js -d <directory> -h <html-file-name> -p <port> -e <entry-point-js>
